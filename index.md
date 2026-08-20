@@ -32,6 +32,17 @@ one away. That single rule is what makes every recovery path below work.
    dependency ships prebuilt wheels.
 2. Install the `auth_saml_sp` module.
 
+## Screenshots
+
+**The provider form — paste the IdP metadata, everything else is filled for
+you; the right column is what you hand back, one copy button each:**
+
+![SAML provider form](images/provider-form.jpg)
+
+**Where it lives — Settings → Users & Companies → SAML Providers:**
+
+![Menu path](images/menu-path.jpg)
+
 ## Setup — two pastes
 
 **In Odoo** (Settings → Users & Companies → SAML Providers):
