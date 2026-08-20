@@ -34,6 +34,11 @@ one away. That single rule is what makes every recovery path below work.
 
 ## Screenshots
 
+**The login page — one "Sign in with Rippling" click; password login stays
+available (the module never removes a way in):**
+
+![Login page with SSO button](images/login-page.jpg)
+
 **The provider form — paste the IdP metadata, everything else is filled for
 you; the right column is what you hand back, one copy button each:**
 
