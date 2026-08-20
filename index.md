@@ -15,7 +15,7 @@ Proprietary (OPL-1), sold on the Odoo Apps Store by
 - Strict security defaults, every requirement covered by an executed test.
 
 *Support & purchase: see the Odoo Apps Store listing (coming with the 19.0
-release) or contact EGE Products.*
+release) or contact [tp@kingskode.dev](mailto:tp@kingskode.dev).*
 
 ---
 
