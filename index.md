@@ -5,7 +5,7 @@ Microsoft Entra ID, Google Workspace and more — with a one-paste setup.**
 
 The first SAML SSO module for Odoo 19, with a first-class Rippling preset.
 Proprietary (OPL-1), sold on the Odoo Apps Store. Built and battle-tested by
-[EGE Products](https://github.com/EGE-Products) on Odoo.sh.
+[EGE Products](https://github.com/KingsKodeDev) on Odoo.sh.
 
 - One-paste setup in both directions: paste the IdP's metadata XML into Odoo,
   paste Odoo's SP metadata URL into the IdP. Copy buttons everywhere.
